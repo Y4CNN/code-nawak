@@ -1,0 +1,6 @@
+wp-config.php
+uploads/
+*.log
+.env
+node_modules/
+vendor/
